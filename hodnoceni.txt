@@ -1,0 +1,3 @@
+xbubel08 100 (instalátor, vedení týmu, makefile, profiling, README)
+xfiala61 100 (nápověda, uživatelská dokumentace, matematická knihovna, prezentace)
+xvintr04 100 (GUI, programová dokumentace)

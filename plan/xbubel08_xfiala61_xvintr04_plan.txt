@@ -1,0 +1,53 @@
+IVS předběžný plán
+
+Stanovené termíny:
+	- Pravidelné meetingy každý pátek v 15:00
+	- CI test framework na GitHub do 30.3  
+	- Testy pro matematickou knihovnu do 8.4
+	- Stabilní verze GUI do 20.4
+	- Matematická knihovna do 20.4
+	- Týden před odevzdáním mít projekt v
+	  odevzdatelné podobě
+	- Hotová dokumentace do 27.4
+
+Přidělení úkolů:
+	Vojtěch Bůbela <xbubel08>
+		- Správa GitHub (např. CI testy, integrace Gitu na Discord, etc.)
+		- Makefile
+		- Instalátor
+		- Profiling
+		- README.md
+		- Hodnocení
+		- Mock up další verze
+
+	Vojtěch Fiala <xfiala61>
+		- Nápověda
+		- Programová dokumentace (doxygen)
+		- Testy pro matematickou knihovnu
+		- Matematická knihovna
+		- Debuggování matematické knihovny se snímky obrazovky
+		- Prezentace na obhajobu
+		- Hodnocení
+		- Mock up další verze
+
+	Tadeáš Vintrlík <xvintr04>
+		- Uživatelské dokumentace
+		- Grafické uživatelské rozhraní
+		- Testování na virtuálním prostředí
+		- Hodnocení
+		- Mock up další verze
+
+Komunikace:
+	- Komunikace přes Discord
+		- Vlastní Discord server
+		- Meetingy v hlasovém kanálu
+		- Task-log se zápisem z meetingu a plán na další týden
+
+	- Revize kódu na GitHubu
+
+Systém pro správu verzí a hosting:
+	- Verzování - Git
+	- Hosting - GitHub
+	- Do repozitáře lze nahlédnout zde: 
+		https://github.com/Stardust-Crusaders-IVS/IVS-calculator
+	- V případě, že by do adresáře nešlo nahlédnout kontaktujte xbubel08@stud.fit.vutbr.cz
